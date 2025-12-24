@@ -1,4 +1,4 @@
-## Hi, I'm Erez Ader 👋
+## Hi, I'm Erez Adar 👋
 
 Full-stack Web3 developer focused on building real-world decentralized applications.
 
