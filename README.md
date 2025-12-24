@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Erez Ader 👋
 
-<!--
-**ErAdar8/ErAdar8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack Web3 developer focused on building real-world decentralized applications.
 
-Here are some ideas to get you started:
+### Tech Stack
+- Solidity, Hardhat
+- Ethers.js
+- Next.js, React
+- Ethereum & DeFi primitives
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Project
+- **Committee DApp**  
+  On-chain governance and fund management system for decentralized committees.
+
+### Interests
+- Smart contract architecture
+- On-chain governance
+- DeFi infrastructure
+- Stablecoins & payments
+
+📫 **Contact**  
+erezadar125@gmail.com
