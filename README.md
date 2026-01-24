@@ -5,7 +5,7 @@ Full-stack Web3 developer focused on building real-world decentralized applicati
 ### Tech Stack
 - Solidity, Hardhat
 - Ethers.js
-- Next.js, React
+- Next.js, React, Vite
 - Ethereum & DeFi primitives
 
 ### Featured Project
