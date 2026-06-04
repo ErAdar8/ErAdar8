@@ -19,4 +19,4 @@ Full-stack Web3 developer focused on building real-world decentralized applicati
 - Stablecoins & payments
 
 📫 **Contact**  
-erezadar125@gmail.com
+erezadar4@gmail.com
